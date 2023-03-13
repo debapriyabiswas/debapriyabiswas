@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @debapriyabiswas
-- 👀 I’m interested in AWS & OCI platforms
-- 🌱 I’m currently learning Terraform to manage AWS & OCI resources
+- 👀 I’m interested in cloud platform like OCI, AWS & Azure.
+- 🌱 I’m currently learning Terraform to manage OCI, AWS & Azure environments
 - 📫 How to reach me - debapriya.biswas@gmail.com
 
 <!---
